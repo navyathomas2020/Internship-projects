@@ -19,22 +19,19 @@ This project detects human faces in real-time using OpenCV and a Haar Cascade cl
 ## How to Run
 
 pip install -r requirements.txt
-python app.py
 
-## ⌨️ Controls
+python opencv_project.py
+
+## Controls
 
 Press 'q' to exit
 
-## 📊 Output
+## Output
 
 Detects faces and shows them with rectangles in a live camera feed.
 
-## 🚀 Future Scope
 
-* Face recognition using CNN
-* Streamlit web app integration
-
-## 👩‍💻 Author
+## Author
 
 Navya Thomas
 
